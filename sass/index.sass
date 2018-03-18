@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald')
+@import vars
+
+html, body
+	padding: 0
+	margin: 0
+	font-family: $primary-font
+
+main
+	min-height: calc(100vh - #{$header-height + $footer-height})
+
+button
+	font-family: $primary-font
+
+a	
+	text-decoration: none
+	text-transform: uppercase
+	color: $white
+	cursor: pointer
+	&:hover
+		color: $primary-color
+
+
+@import helpers
+@import partials/nav
+@import partials/footer
+@import partials/slider

@@ -1,0 +1,65 @@
+%flex
+	display: flex
+
+.flex-center
+	@extend %flex
+	justify-content: center
+	align-items: center
+
+.flex-center-col
+	@extend .flex-center
+	flex-direction: column	
+
+.flex-sp-between
+	@extend %flex
+	justify-content: space-between
+
+.flex-sp-around
+	@extend %flex
+	justify-content: space-around
+	@media only screen and (max-width: $small-screen)
+		flex-direction: column
+
+.flex-center-vertical
+	@extend %flex
+	align-items: center
+
+.list-reset
+	padding: 0
+	margin: 0
+	list-style-type: none
+
+ul.flex-list-row
+	@extend .list-reset
+	@extend .flex-sp-around
+
+ul.flex-list
+	@extend ul.flex-list-row
+	flex-direction: column
+
+.uc
+	text-transform: uppercase
+
+.text-center 
+	text-align: center
+
+.btn
+	@extend .uc
+	@extend .text-center
+	font-size: 17px
+	cursor: pointer
+	border: none	
+	padding: 5px 30px
+
+.btn-primary
+	@extend .btn
+	background-color: $primary-color
+	color: $white
+	&:hover
+		color: $black
+
+.btn-dark
+	@extend .btn
+	background-color: $darker
+	color: $white
+	

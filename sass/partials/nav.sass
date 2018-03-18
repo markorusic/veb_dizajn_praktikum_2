@@ -1,0 +1,45 @@
+header
+	nav.main-nav
+		height: $header-height
+		background-color: $black
+
+		@media only screen and (max-width: $small-screen)
+			height: auto
+
+		>*
+			@extend .flex-center-vertical
+			@media only screen and (max-width: $small-screen)
+				margin-bottom: 15px
+
+		.logo
+			@extend .flex-center
+			background-color: $primary-color
+			font-weight: bold
+			font-size: 20px
+			padding: 0 15px
+
+		.links li
+			@extend .flex-center
+			height: 100%
+			width: 130px
+			
+		.links li:not(:last-child)
+			@media only screen and (max-width: $small-screen)
+				margin-bottom: 5px
+
+		.auth
+			@extend .flex-center
+			font-size: 13px
+			ul
+				@extend .flex-center
+				li:not(:last-child)
+					@media only screen and (max-width: $small-screen)
+						margin-bottom: 5px
+
+		.logo, .links li
+			@extend .text-center
+			cursor: pointer			
+			&:hover
+				background-color: $darker
+				a
+					color: $primary-color	

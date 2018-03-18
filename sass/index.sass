@@ -7,7 +7,8 @@ html, body
 	font-family: $primary-font
 
 main
-	min-height: calc(100vh - #{$header-height + $footer-height})
+	@media only screen and (min-width: $small-screen)
+		min-height: calc(100vh - #{$header-height + $footer-height})
 
 button
 	font-family: $primary-font
@@ -25,3 +26,8 @@ a
 @import partials/nav
 @import partials/footer
 @import partials/slider
+
+
+main#home
+	@media only screen and (min-width: $small-screen)
+		height: calc(100vh - #{$header-height + $footer-height})

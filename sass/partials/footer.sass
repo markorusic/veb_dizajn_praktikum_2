@@ -1,3 +1,21 @@
 footer.main-footer
 	height: $footer-height
 	background-color: $black
+	border-top: 2px solid $primary-color
+	@media only screen and (max-width: $small-screen)
+		height: auto
+
+	.info
+		color: $white		
+	
+	.social
+		ul li a i
+			font-size: 25px
+		@media only screen and (max-width: $small-screen)
+			ul
+				margin: 15px 0
+				flex-direction: row
+
+	.links a:not(:last-child) ,
+	.social ul li:not(:last-child)
+		margin-right: 15px

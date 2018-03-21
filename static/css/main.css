@@ -96,12 +96,12 @@ header nav.main-nav {
     @media only screen and (max-width: 576px) {
       header nav.main-nav .auth ul li:not(:last-child) {
         margin-bottom: 5px; } }
+  header nav.main-nav .logo.active, header nav.main-nav .logo:hover, header nav.main-nav .links li:hover, header nav.main-nav .links li.active {
+    background-color: #111; }
+    header nav.main-nav .logo.active a, header nav.main-nav .logo:hover a, header nav.main-nav .links li:hover a, header nav.main-nav .links li.active a {
+      color: #7df235; }
   header nav.main-nav .logo, header nav.main-nav .links li {
     cursor: pointer; }
-    header nav.main-nav .logo:hover, header nav.main-nav .links li:hover {
-      background-color: #111; }
-      header nav.main-nav .logo:hover a, header nav.main-nav .links li:hover a {
-        color: #7df235; }
 
 footer.main-footer {
   height: 55px;

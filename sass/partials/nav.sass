@@ -35,11 +35,15 @@ header
 				li:not(:last-child)
 					@media only screen and (max-width: $small-screen)
 						margin-bottom: 5px
+		
+		.logo.active, .links li.active
+			background-color: $darker
+			a
+				color: $primary-color
 
 		.logo, .links li
 			@extend .text-center
-			cursor: pointer			
+			cursor: pointer
 			&:hover
-				background-color: $darker
-				a
-					color: $primary-color	
+				@extend .logo.active
+				

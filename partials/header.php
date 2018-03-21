@@ -14,7 +14,7 @@
 				<a href="/">Belgrade party</a>
 			</div>			
 			<ul class="links flex-list-row">
-				<li><a href="#">Now party</a></li>
+				<li><a href="/now-party.php">Now party</a></li>
 				<li><a href="#">Services</a></li>
 				<li><a href="#">News & Events</a></li>
 			</ul>

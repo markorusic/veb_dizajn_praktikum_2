@@ -1,1 +1,4 @@
 .sass-cache
+content/migratePhotos.js
+content/node_modules
+content/package-lock.json

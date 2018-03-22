@@ -1,23 +1,62 @@
-$('a[href="' + window.location.pathname + '"]').parent().addClass('active');
+var palceFilter = (function () {
 
+	// state
+	var _shouldInit = window.location.pathname == '/now-party.php';
+	var activeCategory = null;
 
-// Array.from(Array.from(document.querySelector('#post-4499 > div').childNodes).filter(node => node.tagName == "SECTION"))
-// 	.map($place => {
-// 		return Array.from($place.childNodes).filter(node => node.tagName == "SECTION")[0]
-// 	})
-// 		.forEach(($place, index1) => {
-// 			const category = $place.getAttribute('id').slice(3)
-// 			const places = Array.from($place.children)
-// 				.filter(node => node.tagName == "ARTICLE")
-// 			places
-// 				.forEach((place, index2) => {
-// 					const placeName = place.querySelector('.event-description h3').innerText.trim()
-// 					const placeImage = place.querySelector('.inner-item a img').getAttribute('src')
-// 					data.push({
-// 						id: parseInt(index1.toString() + index2.toString()),
-// 						category: category,
-// 						name: placeName,
-// 						mainImage: placeImage
-// 					})
-// 				})	
-// 		})
+	// cache DOM
+	var $root = $('main#now-party');
+	var $filterItems = $root.find('.places-filter ul li a');
+	var $places = $root.find('.place-item-wrapper');
+
+	function _bindEvents () {
+		$filterItems.on('click', _handleFilterClick);
+	}
+
+	function _handleFilterClick (event) {
+		event.preventDefault();
+		var $el = $(event.target);
+		var category = $el.text();
+		$filterItems.removeClass('active');
+		$el.addClass('active');
+		_setActiveCategory(category);
+	}
+
+	function _setActiveCategory (category) {
+		if(category == 'Everywhere') {
+			activeCategory = null
+		}
+		else {
+			activeCategory = category
+		}
+		_renderFilterdPlaces()
+	}
+
+	function _renderFilterdPlaces () {
+		if (!activeCategory) {
+			$places.fadeIn();
+			return null
+		}
+		$places.each(function(index, place) {
+    		var category = place.dataset.category;
+    		if(category != activeCategory)
+    			$(place).fadeOut();
+    		else
+    			$(place).fadeIn();
+    	});
+	}
+
+	return {
+		init: function () {
+			if(_shouldInit) {
+				_bindEvents();
+			}			
+		}
+	}
+
+})();
+
+$(function () {
+	$('a[href="' + window.location.pathname + '"]').parent().addClass('active');
+	palceFilter.init();
+});

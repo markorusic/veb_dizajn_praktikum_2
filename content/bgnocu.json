@@ -1,386 +1,436 @@
 [
   {
     "id": 0,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Hype",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Klub-Hype-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Klub-Hype-logo-215x156.jpg",
+    "slug": "club-hype"
   },
   {
     "id": 1,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Stefan Braun",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/01/Stefan-Braun-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/01/Stefan-Braun-logo-215x156.jpg",
+    "slug": "club-stefan-braun"
   },
   {
     "id": 2,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Kasina by Community",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/Klub-Community-By-Kasina-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/Klub-Community-By-Kasina-logo-215x156.jpg",
+    "slug": "club-kasina-by-community"
   },
   {
     "id": 3,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Klub Wurst Platz",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/11/Klub-Wurst-Platz-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/11/Klub-Wurst-Platz-logo-215x156.jpg",
+    "slug": "klub-wurst-platz"
   },
   {
     "id": 4,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Klub Čorba Kafe",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/10/Klub-Corba-Kafe-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/10/Klub-Corba-Kafe-logo-215x156.jpg",
+    "slug": "klub-corba-kafe"
   },
   {
     "id": 5,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Klub Tramvaj Pub",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/Klub-Tramvaj-Pub-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/Klub-Tramvaj-Pub-logo-215x156.jpg",
+    "slug": "klub-tramvaj-pub"
   },
   {
     "id": 6,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Klub Gajba",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Klub-Gajba-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Klub-Gajba-logo-215x156.jpg",
+    "slug": "klub-gajba"
   },
   {
     "id": 7,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Ludost",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/Klub-Ludost-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/Klub-Ludost-logo-215x156.jpg",
+    "slug": "club-ludost"
   },
   {
     "id": 8,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Brod Sava",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/01/Brod-Sava-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/01/Brod-Sava-logo-215x156.jpg",
+    "slug": "brod-sava"
   },
   {
     "id": 9,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Square Club",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/10/Klub-Square-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/10/Klub-Square-logo-215x156.jpg",
+    "slug": "square-club"
   },
   {
     "id": 10,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Brankow",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/01/Klub-Brankow-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/01/Klub-Brankow-logo-215x156.jpg",
+    "slug": "club-brankow"
   },
   {
     "id": 12,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Klub Martinez",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/01/Klub-Martinez-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/01/Klub-Martinez-logo-215x156.jpg",
+    "slug": "klub-martinez"
   },
   {
     "id": 13,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Ben Akiba",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Klub-Ben-Akiba-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Klub-Ben-Akiba-logo-215x156.jpg",
+    "slug": "club-ben-akiba"
   },
   {
     "id": 18,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Mladost",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/Klub-Mladost-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/Klub-Mladost-logo-215x156.jpg",
+    "slug": "club-mladost"
   },
   {
     "id": 21,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Klub Hram",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/klub-Hram-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/09/klub-Hram-logo-215x156.jpg",
+    "slug": "klub-hram"
   },
   {
     "id": 22,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Freestyler",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Klub-Freestyler-logo-1-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Klub-Freestyler-logo-1-215x156.jpg",
+    "slug": "club-freestyler"
   },
   {
     "id": 24,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "The Bank Club",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/09/The-Bank-logo-215x156.png"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/09/The-Bank-logo-215x156.png",
+    "slug": "the-bank-club"
   },
   {
     "id": 28,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Industrija Bar",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Industrija-Bar-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Industrija-Bar-logo-215x156.jpg",
+    "slug": "industrija-bar"
   },
   {
     "id": 30,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Gotik",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/12/Klub-Gotik-logo-215x156.png"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/12/Klub-Gotik-logo-215x156.png",
+    "slug": "club-gotik"
   },
   {
     "id": 40,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Bitef Art Cafe",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/01/Klub-Bitef-Art-Cafe-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/01/Klub-Bitef-Art-Cafe-215x156.jpg",
+    "slug": "club-bitef-art-cafe"
   },
   {
     "id": 41,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Klub Soul Society",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/12/Klub-Soul-Society-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/12/Klub-Soul-Society-logo-215x156.jpg",
+    "slug": "klub-soul-society"
   },
   {
     "id": 49,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Club Rush",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Klub-Rush-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Klub-Rush-logo-215x156.jpg",
+    "slug": "club-rush"
   },
   {
     "id": 50,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Dot Club",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/10/klub-dot-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/10/klub-dot-logo-215x156.jpg",
+    "slug": "dot-club"
   },
   {
     "id": 54,
-    "category": "klubovi",
+    "category": "clubs",
     "name": "Splav Hua Hua",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/10/Klub-Hua-Hua-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/10/Klub-Hua-Hua-logo-215x156.jpg",
+    "slug": "splav-hua-hua"
   },
   {
     "id": 10,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Stara Pesma",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Stara-Pesma-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Stara-Pesma-logo-215x156.jpg",
+    "slug": "tavern-stara-pesma"
   },
   {
     "id": 11,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Ona Moja",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/kafana-Ona-Moja-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/kafana-Ona-Moja-logo-215x156.jpg",
+    "slug": "tavern-ona-moja"
   },
   {
     "id": 12,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Konoba Akustik",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Konoba-Akustik-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Konoba-Akustik-logo-215x156.jpg",
+    "slug": "tavern-konoba-akustik"
   },
   {
     "id": 13,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Staro Drvce",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/01/Kafana-Staro-Drvce-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/01/Kafana-Staro-Drvce-215x156.jpg",
+    "slug": "tavern-staro-drvce"
   },
   {
     "id": 14,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Hodač",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/07/Hodac-watermark-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2013/07/Hodac-watermark-215x156.jpg",
+    "slug": "tavern-hodac"
   },
   {
     "id": 15,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Korčagin",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Korcagin-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Korcagin-logo-215x156.jpg",
+    "slug": "tavern-korcagin"
   },
   {
     "id": 16,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Limun Žut",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Limun-Zut-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Limun-Zut-logo-215x156.jpg",
+    "slug": "tavern-limun-zut"
   },
   {
     "id": 17,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Mala Maca",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Mala-Maca-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Mala-Maca-logo-215x156.jpg",
+    "slug": "tavern-mala-maca"
   },
   {
     "id": 18,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Jazbina",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Jazbina-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Jazbina-logo-215x156.jpg",
+    "slug": "tavern-jazbina"
   },
   {
     "id": 111,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Gradska Kafana",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/07/Gradska-Kafana-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/07/Gradska-Kafana-215x156.jpg",
+    "slug": "gradska-kafana"
   },
   {
     "id": 112,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Kafana Pukni Zoro",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Pukni-Zoro-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Pukni-Zoro-logo-215x156.jpg",
+    "slug": "kafana-pukni-zoro"
   },
   {
     "id": 113,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Kafana Druga Kuća",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/10/Kafana-Druga-Kuca-logo-1-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/10/Kafana-Druga-Kuca-logo-1-215x156.jpg",
+    "slug": "kafana-druga-kuća"
   },
   {
     "id": 123,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Kafana Cosa Nostra",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Kafana-Cosa-Nostra-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Kafana-Cosa-Nostra-logo-215x156.jpg",
+    "slug": "kafana-cosa-nostra"
   },
   {
     "id": 125,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Kafana Bajka",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Kafana-Bajka-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Kafana-Bajka-logo-215x156.jpg",
+    "slug": "kafana-bajka"
   },
   {
     "id": 127,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Tavern Sokače",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Sokace-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Sokace-logo-215x156.jpg",
+    "slug": "tavern-sokace"
   },
   {
     "id": 134,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Kafana Švaler",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Svaler-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/Kafana-Svaler-logo-215x156.jpg",
+    "slug": "kafana-svaler"
   },
   {
     "id": 139,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Kafana Teatro",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Kafana-Teatro-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Kafana-Teatro-logo-215x156.jpg",
+    "slug": "kafana-teatro"
   },
   {
     "id": 140,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Kafana Moj Grad",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Kafana-Moj-Grad-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Kafana-Moj-Grad-logo-215x156.jpg",
+    "slug": "kafana-moj-grad"
   },
   {
     "id": 142,
-    "category": "kafane",
+    "category": "taverns",
     "name": "Kafana Gaučosi",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/kafana-Gaucosi-logo-215x156.jpg"
-  },
-  {
-    "id": 20,
-    "category": "striptizbarovi",
-    "name": "Striptiz Klub Black Rose VIP",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/02/Striptiz-klub-Black-Rose-VIP-logo-215x156.jpg"
-  },
-  {
-    "id": 21,
-    "category": "striptizbarovi",
-    "name": "Striptiz Klub Red Box",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/01/Red-Box-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/05/kafana-Gaucosi-logo-215x156.jpg",
+    "slug": "kafana-gaucosi"
   },
   {
     "id": 30,
-    "category": "barovi",
+    "category": "bars",
     "name": "Bar Rob Roy 1884",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/01/Bar-RobRoy-1884-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/01/Bar-RobRoy-1884-logo-215x156.jpg",
+    "slug": "bar-rob-roy-1884"
   },
   {
     "id": 31,
-    "category": "barovi",
+    "category": "bars",
     "name": "Pivara",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/11/Pivara-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/11/Pivara-logo-215x156.jpg",
+    "slug": "pivara"
   },
   {
     "id": 32,
-    "category": "barovi",
+    "category": "bars",
     "name": "Bar Shootiranje",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/03/Bar-Shootiranje-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/03/Bar-Shootiranje-logo-215x156.jpg",
+    "slug": "bar-shootiranje"
   },
   {
     "id": 33,
-    "category": "barovi",
+    "category": "bars",
     "name": "Informbiro Bar",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/03/Bar-InformBiro-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/03/Bar-InformBiro-logo-215x156.jpg",
+    "slug": "informbiro-bar"
   },
   {
     "id": 34,
-    "category": "barovi",
+    "category": "bars",
     "name": "Square Five",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/10/square-five-Sport-Pub-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/10/square-five-Sport-Pub-logo-215x156.jpg",
+    "slug": "square-five"
   },
   {
     "id": 36,
-    "category": "barovi",
+    "category": "bars",
     "name": "Koks Energy Bar",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Koks-Energy-Bar-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Koks-Energy-Bar-logo-215x156.jpg",
+    "slug": "koks-energy-bar"
   },
   {
     "id": 39,
-    "category": "barovi",
+    "category": "bars",
     "name": "Witch Bar",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/09/Witch-Bar-logo-1-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/09/Witch-Bar-logo-1-215x156.jpg",
+    "slug": "witch-bar"
   },
   {
     "id": 311,
-    "category": "barovi",
+    "category": "bars",
     "name": "Tranzit Bar",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/12/Tranzit-Bar-logo-1-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/12/Tranzit-Bar-logo-1-215x156.jpg",
+    "slug": "tranzit-bar"
   },
   {
     "id": 317,
-    "category": "barovi",
+    "category": "bars",
     "name": "Toxic Bar",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/01/Toxic-Bar-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2018/01/Toxic-Bar-logo-215x156.jpg",
+    "slug": "toxic-bar"
   },
   {
     "id": 319,
-    "category": "barovi",
+    "category": "bars",
     "name": "Pub 23 Bar",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/01/Pub-23-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2015/01/Pub-23-logo-215x156.jpg",
+    "slug": "pub-23-bar"
   },
   {
     "id": 320,
-    "category": "barovi",
+    "category": "bars",
     "name": "Bar Hugo",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Bar-Hugo-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/10/Bar-Hugo-logo-215x156.jpg",
+    "slug": "bar-hugo"
   },
   {
     "id": 321,
-    "category": "barovi",
+    "category": "bars",
     "name": "No Stress Bar",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/12/No-Stress-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2014/12/No-Stress-logo-215x156.jpg",
+    "slug": "no-stress-bar"
   },
   {
     "id": 40,
-    "category": "restorani",
+    "category": "restaurant",
     "name": "Restoran Stanica 1884",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/06/Restoran-Stanica-1884-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/06/Restoran-Stanica-1884-logo-215x156.jpg",
+    "slug": "restoran-stanica-1884"
   },
   {
     "id": 41,
-    "category": "restorani",
+    "category": "restaurant",
     "name": "Restaurant Tri Šešira",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/04/restoran-Tri-Sesira-skadarlija-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/04/restoran-Tri-Sesira-skadarlija-logo-215x156.jpg",
+    "slug": "restaurant-tri-sesira"
   },
   {
     "id": 42,
-    "category": "restorani",
+    "category": "restaurant",
     "name": "Restoran Zlatni Bokal",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/04/Restoran-Zlatni-Bokal-logo-1-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/04/Restoran-Zlatni-Bokal-logo-1-215x156.jpg",
+    "slug": "restoran-zlatni-bokal"
   },
   {
     "id": 43,
-    "category": "restorani",
+    "category": "restaurant",
     "name": "Restoran Dva Jelena",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/12/Restoran-Dva-Jelena-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/12/Restoran-Dva-Jelena-logo-215x156.jpg",
+    "slug": "restoran-dva-jelena"
   },
   {
     "id": 44,
-    "category": "restorani",
+    "category": "restaurant",
     "name": "Restoran Solunac",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/04/Restoran-Solunac-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2016/04/Restoran-Solunac-logo-215x156.jpg",
+    "slug": "restoran-solunac"
   },
   {
     "id": 45,
-    "category": "restorani",
+    "category": "restaurant",
     "name": "Restoran Tesla",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Restoran-Tesla-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/09/Restoran-Tesla-logo-215x156.jpg",
+    "slug": "restoran-tesla"
   },
   {
     "id": 46,
-    "category": "restorani",
+    "category": "restaurant",
     "name": "Restoran Šapat",
-    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/11/Restoran-Sapat-logo-215x156.jpg"
+    "mainImage": "https://www.beogradnocu.com/wp-content/uploads/2017/11/Restoran-Sapat-logo-215x156.jpg",
+    "slug": "restoran-sapat"
   }
 ]

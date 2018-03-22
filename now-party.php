@@ -3,27 +3,31 @@
 	include './partials/header.php';
 ?>
 	<main id="now-party">
-		<div class="place-category-filter">
-			<h2>Where do you want to go? (<?=count($places)?>)</h2>
+		<div class="places-filter">
+			<h1 class="uc">Where do you want to go?</h1>
 			<ul class="flex-list-row">
-				<?php foreach ($categories as $i => $category): ?>
+				<li><a href="#" class="active">Everywhere</a></li>
+				<?php foreach ($categories as $category): ?>
 					<li><a href="#"><?=$category?></a></li>
 				<?php endforeach; ?>
 			</ul>
 		</div>
-		<div class="palces">
-			<?php foreach ($categories as $category): ?>
-				<h3><?=$category?></h3>
-				<hr>
-				<?php 
-					$places = getByCategory($places, $category);
-					foreach ($places as $place):
-				?>
-					<div class="place-preview">
-						<h3><?=$place['name']?></h3>
-						<!-- <small><?=$place['category']?></small> -->
-					</div>
-				<?php endforeach; ?>
+		<div class="places">
+			<?php foreach ($places as $place): ?>
+				<div class="place-item-wrapper" 
+					data-category="<?=$place['category']?>"
+				>
+					<a href="/places.php?slug=<?=$place['slug']?>">
+						<div class="palce-item"
+							style="background-image: url('<?=$place['mainImage']?>')"
+						>
+							<div class="overlay"></div>
+							<div class="place-content flex-center">
+								<h3 class="text-center uc"><?=$place['name']?></h3>
+							</div>
+						</div>
+					</a>
+				</div>				
 			<?php endforeach; ?>
 		</div>
 	</main>

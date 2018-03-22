@@ -1,0 +1,62 @@
+main#now-party
+	padding: 10px 0
+
+	a
+		color: $black
+
+	.places-filter
+		padding: 0 5px
+		box-sizing: border-box
+		h1
+			@media only screen and (max-width: $small-screen)
+				text-align: center
+		ul
+			justify-content: flex-start
+			margin-bottom: 20px
+		
+			li:not(:last-child)
+				margin-right: 5px
+
+			li
+				background-color: $darker
+				box-sizing: border-box
+				padding: 10px 30px
+				@media only screen and (max-width: $small-screen)
+					text-align: center
+					margin: 1px 0
+					margin-right: 0 !important
+				a
+					color: $white
+					&:hover
+						color: $primary-color
+
+	.places
+		@extend %flex
+		flex-wrap: wrap
+		justify-content: flex-start
+		.place-item-wrapper
+			flex: 0 0 20%
+			max-width: 20%
+			@media only screen and (max-width: $small-screen)
+				flex: 0 0 50%
+				max-width: 50%
+			padding: 5px
+			box-sizing: border-box
+			.palce-item
+				background-repeat: no-repeat
+				background-position: center center
+				background-size: cover
+				display: block
+				padding-bottom: 72%
+				position: relative
+				cursor: pointer
+				.place-content
+					display: none
+					color: $primary-color
+					+absolute-shrink
+					
+				&:hover
+					.overlay
+						display: block
+					.place-content
+						display: flex

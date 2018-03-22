@@ -8,8 +8,9 @@ function getCategories ($places) {
 	$categories = [];
 	foreach ($places as $i => $place) {
 		$placeCategory = $place['category'];
-		if(!in_array($placeCategory, $categories))
+		if (!in_array($placeCategory, $categories)) {
 			array_push($categories, $placeCategory);
+		}
 	}
 	return $categories;
 }
@@ -21,5 +22,10 @@ function getByCategory ($places, $category) {
 }
 
 function getBySlug ($places, $slug) {
-
+	foreach ($places as $place) {
+		if ($place['slug'] == $slug) {			
+			return $place;
+		}
+	}
+	return null;
 }

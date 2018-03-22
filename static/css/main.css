@@ -19,7 +19,10 @@ a {
   a:hover {
     color: #7df235; }
 
-.flex-center, .flex-center-col, .slider .info .date, header nav.main-nav .logo, header nav.main-nav .links li, header nav.main-nav .auth, header nav.main-nav .auth ul, .slider .slider-items, .flex-sp-between, .flex-sp-around, ul.flex-list-row, ul.flex-list, .flex-center-vertical, header nav.main-nav > * {
+a.active {
+  color: #7df235 !important; }
+
+.flex-center, .flex-center-col, .slider .info .date, header nav.main-nav .logo, header nav.main-nav .links li, header nav.main-nav .auth, header nav.main-nav .auth ul, .slider .slider-items, .flex-sp-between, .flex-sp-around, ul.flex-list-row, ul.flex-list, .flex-center-vertical, header nav.main-nav > *, .flex-center-wrap, main#now-party .places {
   display: flex; }
 
 .flex-center, .flex-center-col, .slider .info .date, header nav.main-nav .logo, header nav.main-nav .links li, header nav.main-nav .auth, header nav.main-nav .auth ul, .slider .slider-items {
@@ -41,6 +44,10 @@ a {
 .flex-center-vertical, header nav.main-nav > * {
   align-items: center; }
 
+.flex-center-wrap {
+  justify-content: center;
+  flex-wrap: wrap; }
+
 .list-reset, ul.flex-list-row, ul.flex-list {
   padding: 0;
   margin: 0;
@@ -48,6 +55,9 @@ a {
 
 ul.flex-list {
   flex-direction: column; }
+
+.black {
+  color: #333 !important; }
 
 .uc, .btn, .btn-primary, .btn-dark {
   text-transform: uppercase; }
@@ -70,6 +80,15 @@ ul.flex-list {
 .btn-dark {
   background-color: #111;
   color: #fff; }
+
+.overlay {
+  display: none;
+  background-color: rgba(0, 0, 0, 0.85);
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0; }
 
 header nav.main-nav {
   height: 70px;
@@ -132,9 +151,9 @@ footer.main-footer {
   .slider .overlay {
     position: absolute;
     top: 0;
+    right: 0;
     left: 0;
     bottom: 0;
-    right: 0;
     background-color: rgba(0, 0, 0, 0.5); }
   .slider .slider-items img {
     max-width: 100%;
@@ -183,11 +202,69 @@ footer.main-footer {
   .slider .next {
     right: 0; }
 
+main#now-party {
+  padding: 10px 0; }
+  main#now-party a {
+    color: #333; }
+  main#now-party .places-filter {
+    padding: 0 5px;
+    box-sizing: border-box; }
+    @media only screen and (max-width: 576px) {
+      main#now-party .places-filter h1 {
+        text-align: center; } }
+    main#now-party .places-filter ul {
+      justify-content: flex-start;
+      margin-bottom: 20px; }
+      main#now-party .places-filter ul li:not(:last-child) {
+        margin-right: 5px; }
+      main#now-party .places-filter ul li {
+        background-color: #111;
+        box-sizing: border-box;
+        padding: 10px 30px; }
+        @media only screen and (max-width: 576px) {
+          main#now-party .places-filter ul li {
+            text-align: center;
+            margin: 1px 0;
+            margin-right: 0 !important; } }
+        main#now-party .places-filter ul li a {
+          color: #fff; }
+          main#now-party .places-filter ul li a:hover {
+            color: #7df235; }
+  main#now-party .places {
+    flex-wrap: wrap;
+    justify-content: flex-start; }
+    main#now-party .places .place-item-wrapper {
+      flex: 0 0 20%;
+      max-width: 20%;
+      padding: 5px;
+      box-sizing: border-box; }
+      @media only screen and (max-width: 576px) {
+        main#now-party .places .place-item-wrapper {
+          flex: 0 0 50%;
+          max-width: 50%; } }
+      main#now-party .places .place-item-wrapper .palce-item {
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        display: block;
+        padding-bottom: 72%;
+        position: relative;
+        cursor: pointer; }
+        main#now-party .places .place-item-wrapper .palce-item .place-content {
+          display: none;
+          color: #7df235;
+          position: absolute;
+          top: 0;
+          right: 0;
+          left: 0;
+          bottom: 0; }
+        main#now-party .places .place-item-wrapper .palce-item:hover .overlay {
+          display: block; }
+        main#now-party .places .place-item-wrapper .palce-item:hover .place-content {
+          display: flex; }
+
 @media only screen and (min-width: 576px) {
   main#home {
     height: calc(100vh - 125px); } }
-
-main#now-party a {
-  color: #333; }
 
 /*# sourceMappingURL=main.css.map */

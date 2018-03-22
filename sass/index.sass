@@ -21,17 +21,20 @@ a
 	&:hover
 		color: $primary-color
 
+a.active
+	color: $primary-color !important
 
+
+@import mixins
 @import helpers
 @import partials/nav
 @import partials/footer
 @import partials/slider
+@import pages/nowParty
+@import pages/places
 
 
 main#home
 	@media only screen and (min-width: $small-screen)
 		height: calc(100vh - #{$header-height + $footer-height})
 
-main#now-party
-	a
-		color: $black		

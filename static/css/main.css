@@ -187,4 +187,7 @@ footer.main-footer {
   main#home {
     height: calc(100vh - 125px); } }
 
+main#now-party a {
+  color: #333; }
+
 /*# sourceMappingURL=main.css.map */

@@ -1,1 +1,498 @@
-[{"id":0,"category":"clubs","name":"Club Hype","mainImage":"photos/logos/club-hype.jpg","slug":"club-hype"},{"id":1,"category":"clubs","name":"Club Stefan Braun","mainImage":"photos/logos/club-stefan-braun.jpg","slug":"club-stefan-braun"},{"id":2,"category":"clubs","name":"Club Kasina by Community","mainImage":"photos/logos/club-kasina-by-community.jpg","slug":"club-kasina-by-community"},{"id":3,"category":"clubs","name":"Klub Wurst Platz","mainImage":"photos/logos/klub-wurst-platz.jpg","slug":"klub-wurst-platz"},{"id":4,"category":"clubs","name":"Klub Čorba Kafe","mainImage":"photos/logos/klub-corba-kafe.jpg","slug":"klub-corba-kafe"},{"id":5,"category":"clubs","name":"Klub Tramvaj Pub","mainImage":"photos/logos/klub-tramvaj-pub.jpg","slug":"klub-tramvaj-pub"},{"id":6,"category":"clubs","name":"Klub Gajba","mainImage":"photos/logos/klub-gajba.jpg","slug":"klub-gajba"},{"id":7,"category":"clubs","name":"Club Ludost","mainImage":"photos/logos/club-ludost.jpg","slug":"club-ludost"},{"id":8,"category":"clubs","name":"Brod Sava","mainImage":"photos/logos/brod-sava.jpg","slug":"brod-sava"},{"id":9,"category":"clubs","name":"Square Club","mainImage":"photos/logos/square-club.jpg","slug":"square-club"},{"id":10,"category":"clubs","name":"Club Brankow","mainImage":"photos/logos/club-brankow.jpg","slug":"club-brankow"},{"id":12,"category":"clubs","name":"Klub Martinez","mainImage":"photos/logos/klub-martinez.jpg","slug":"klub-martinez"},{"id":13,"category":"clubs","name":"Club Ben Akiba","mainImage":"photos/logos/club-ben-akiba.jpg","slug":"club-ben-akiba"},{"id":18,"category":"clubs","name":"Club Mladost","mainImage":"photos/logos/club-mladost.jpg","slug":"club-mladost"},{"id":21,"category":"clubs","name":"Klub Hram","mainImage":"photos/logos/klub-hram.jpg","slug":"klub-hram"},{"id":22,"category":"clubs","name":"Club Freestyler","mainImage":"photos/logos/club-freestyler.jpg","slug":"club-freestyler"},{"id":24,"category":"clubs","name":"The Bank Club","mainImage":"photos/logos/the-bank-club.jpg","slug":"the-bank-club"},{"id":28,"category":"clubs","name":"Industrija Bar","mainImage":"photos/logos/industrija-bar.jpg","slug":"industrija-bar"},{"id":30,"category":"clubs","name":"Club Gotik","mainImage":"photos/logos/club-gotik.jpg","slug":"club-gotik"},{"id":40,"category":"clubs","name":"Club Bitef Art Cafe","mainImage":"photos/logos/club-bitef-art-cafe.jpg","slug":"club-bitef-art-cafe"},{"id":41,"category":"clubs","name":"Klub Soul Society","mainImage":"photos/logos/klub-soul-society.jpg","slug":"klub-soul-society"},{"id":49,"category":"clubs","name":"Club Rush","mainImage":"photos/logos/club-rush.jpg","slug":"club-rush"},{"id":50,"category":"clubs","name":"Dot Club","mainImage":"photos/logos/dot-club.jpg","slug":"dot-club"},{"id":54,"category":"clubs","name":"Splav Hua Hua","mainImage":"photos/logos/splav-hua-hua.jpg","slug":"splav-hua-hua"},{"id":10,"category":"taverns","name":"Tavern Stara Pesma","mainImage":"photos/logos/tavern-stara-pesma.jpg","slug":"tavern-stara-pesma"},{"id":11,"category":"taverns","name":"Tavern Ona Moja","mainImage":"photos/logos/tavern-ona-moja.jpg","slug":"tavern-ona-moja"},{"id":12,"category":"taverns","name":"Tavern Konoba Akustik","mainImage":"photos/logos/tavern-konoba-akustik.jpg","slug":"tavern-konoba-akustik"},{"id":13,"category":"taverns","name":"Tavern Staro Drvce","mainImage":"photos/logos/tavern-staro-drvce.jpg","slug":"tavern-staro-drvce"},{"id":14,"category":"taverns","name":"Tavern Hodač","mainImage":"photos/logos/tavern-hodac.jpg","slug":"tavern-hodac"},{"id":15,"category":"taverns","name":"Tavern Korčagin","mainImage":"photos/logos/tavern-korcagin.jpg","slug":"tavern-korcagin"},{"id":16,"category":"taverns","name":"Tavern Limun Žut","mainImage":"photos/logos/tavern-limun-zut.jpg","slug":"tavern-limun-zut"},{"id":17,"category":"taverns","name":"Tavern Mala Maca","mainImage":"photos/logos/tavern-mala-maca.jpg","slug":"tavern-mala-maca"},{"id":18,"category":"taverns","name":"Tavern Jazbina","mainImage":"photos/logos/tavern-jazbina.jpg","slug":"tavern-jazbina"},{"id":111,"category":"taverns","name":"Gradska Kafana","mainImage":"photos/logos/gradska-kafana.jpg","slug":"gradska-kafana"},{"id":112,"category":"taverns","name":"Kafana Pukni Zoro","mainImage":"photos/logos/kafana-pukni-zoro.jpg","slug":"kafana-pukni-zoro"},{"id":113,"category":"taverns","name":"Kafana Druga Kuća","mainImage":"photos/logos/kafana-druga-kuća.jpg","slug":"kafana-druga-kuća"},{"id":123,"category":"taverns","name":"Kafana Cosa Nostra","mainImage":"photos/logos/kafana-cosa-nostra.jpg","slug":"kafana-cosa-nostra"},{"id":125,"category":"taverns","name":"Kafana Bajka","mainImage":"photos/logos/kafana-bajka.jpg","slug":"kafana-bajka"},{"id":127,"category":"taverns","name":"Tavern Sokače","mainImage":"photos/logos/tavern-sokace.jpg","slug":"tavern-sokace"},{"id":134,"category":"taverns","name":"Kafana Švaler","mainImage":"photos/logos/kafana-svaler.jpg","slug":"kafana-svaler"},{"id":139,"category":"taverns","name":"Kafana Teatro","mainImage":"photos/logos/kafana-teatro.jpg","slug":"kafana-teatro"},{"id":140,"category":"taverns","name":"Kafana Moj Grad","mainImage":"photos/logos/kafana-moj-grad.jpg","slug":"kafana-moj-grad"},{"id":142,"category":"taverns","name":"Kafana Gaučosi","mainImage":"photos/logos/kafana-gaucosi.jpg","slug":"kafana-gaucosi"},{"id":30,"category":"bars","name":"Bar Rob Roy 1884","mainImage":"photos/logos/bar-rob-roy-1884.jpg","slug":"bar-rob-roy-1884"},{"id":31,"category":"bars","name":"Pivara","mainImage":"photos/logos/pivara.jpg","slug":"pivara"},{"id":32,"category":"bars","name":"Bar Shootiranje","mainImage":"photos/logos/bar-shootiranje.jpg","slug":"bar-shootiranje"},{"id":33,"category":"bars","name":"Informbiro Bar","mainImage":"photos/logos/informbiro-bar.jpg","slug":"informbiro-bar"},{"id":34,"category":"bars","name":"Square Five","mainImage":"photos/logos/square-five.jpg","slug":"square-five"},{"id":36,"category":"bars","name":"Koks Energy Bar","mainImage":"photos/logos/koks-energy-bar.jpg","slug":"koks-energy-bar"},{"id":39,"category":"bars","name":"Witch Bar","mainImage":"photos/logos/witch-bar.jpg","slug":"witch-bar"},{"id":311,"category":"bars","name":"Tranzit Bar","mainImage":"photos/logos/tranzit-bar.jpg","slug":"tranzit-bar"},{"id":317,"category":"bars","name":"Toxic Bar","mainImage":"photos/logos/toxic-bar.jpg","slug":"toxic-bar"},{"id":319,"category":"bars","name":"Pub 23 Bar","mainImage":"photos/logos/pub-23-bar.jpg","slug":"pub-23-bar"},{"id":320,"category":"bars","name":"Bar Hugo","mainImage":"photos/logos/bar-hugo.jpg","slug":"bar-hugo"},{"id":321,"category":"bars","name":"No Stress Bar","mainImage":"photos/logos/no-stress-bar.jpg","slug":"no-stress-bar"},{"id":40,"category":"restaurant","name":"Restoran Stanica 1884","mainImage":"photos/logos/restoran-stanica-1884.jpg","slug":"restoran-stanica-1884"},{"id":41,"category":"restaurant","name":"Restaurant Tri Šešira","mainImage":"photos/logos/restaurant-tri-sesira.jpg","slug":"restaurant-tri-sesira"},{"id":42,"category":"restaurant","name":"Restoran Zlatni Bokal","mainImage":"photos/logos/restoran-zlatni-bokal.jpg","slug":"restoran-zlatni-bokal"},{"id":43,"category":"restaurant","name":"Restoran Dva Jelena","mainImage":"photos/logos/restoran-dva-jelena.jpg","slug":"restoran-dva-jelena"},{"id":44,"category":"restaurant","name":"Restoran Solunac","mainImage":"photos/logos/restoran-solunac.jpg","slug":"restoran-solunac"},{"id":45,"category":"restaurant","name":"Restoran Tesla","mainImage":"photos/logos/restoran-tesla.jpg","slug":"restoran-tesla"},{"id":46,"category":"restaurant","name":"Restoran Šapat","mainImage":"photos/logos/restoran-sapat.jpg","slug":"restoran-sapat"}]
+[
+   {
+      "id":0,
+      "category":"clubs",
+      "name":"Club Hype",
+      "mainImage":"photos/logos/club-hype.jpg",
+      "slug":"club-hype",
+      "desc": ""
+   },
+   {
+      "id":1,
+      "category":"clubs",
+      "name":"Club Stefan Braun",
+      "mainImage":"photos/logos/club-stefan-braun.jpg",
+      "slug":"club-stefan-braun",
+      "desc": "Preporučujemo da vikend započnete malo ranije, u klubu Mr. Stefan Braun! Visoko na devetom spratu zgrade u Nemanjinoj 4, živi jedna posebna vrsta zabave kojom četvrtkom upravljaju Dj Moooka i Dj Gru. Sedma sezona SkyHigh-a donosi nova uzbuđenja svim ljubiteljima R’n’B i Hip-Hop muzike zato rezervišite mesto na vreme!"
+   },
+   {
+      "id":2,
+      "category":"clubs",
+      "name":"Club Kasina by Community",
+      "mainImage":"photos/logos/club-kasina-by-community.jpg",
+      "slug":"club-kasina-by-community",
+      "desc": ""
+   },
+   {
+      "id":3,
+      "category":"clubs",
+      "name":"Klub Wurst Platz",
+      "mainImage":"photos/logos/klub-wurst-platz.jpg",
+      "slug":"klub-wurst-platz",
+      "desc": ""
+   },
+   {
+      "id":4,
+      "category":"clubs",
+      "name":"Klub Čorba Kafe",
+      "mainImage":"photos/logos/klub-corba-kafe.jpg",
+      "slug":"klub-corba-kafe",
+      "desc": ""
+   },
+   {
+      "id":5,
+      "category":"clubs",
+      "name":"Klub Tramvaj Pub",
+      "mainImage":"photos/logos/klub-tramvaj-pub.jpg",
+      "slug":"klub-tramvaj-pub",
+      "desc": ""
+   },
+   {
+      "id":6,
+      "category":"clubs",
+      "name":"Klub Gajba",
+      "mainImage":"photos/logos/klub-gajba.jpg",
+      "slug":"klub-gajba",
+      "desc": ""
+   },
+   {
+      "id":7,
+      "category":"clubs",
+      "name":"Club Ludost",
+      "mainImage":"photos/logos/club-ludost.jpg",
+      "slug":"club-ludost",
+      "desc": ""
+   },
+   {
+      "id":8,
+      "category":"clubs",
+      "name":"Brod Sava",
+      "mainImage":"photos/logos/brod-sava.jpg",
+      "slug":"brod-sava",
+      "desc": ""
+   },
+   {
+      "id":9,
+      "category":"clubs",
+      "name":"Square Club",
+      "mainImage":"photos/logos/square-club.jpg",
+      "slug":"square-club",
+      "desc": "Ukoliko želite da se opustite uz popularne zvuke 90ih, onda je jedan od novijih beogradskih klubova, klub Square, mesto gde ćete maksimalno uživati. Ne dopustite da vam drugi prepričavaju, rezervišite svoje mesto i uživajte u čarima noćnog života Beograda. Rezervacije besplatne ali obavezne!"
+   },
+   {
+      "id":10,
+      "category":"clubs",
+      "name":"Club Brankow",
+      "mainImage":"photos/logos/club-brankow.jpg",
+      "slug":"club-brankow",
+      "desc": "Klub Brankow najbolji je internacionalni i lokalni deep house i disko DJ klub uBeogradu. Pored nesvakidašnje unutrašnjost kluba, (mešavina njujorškog, londonskog i berlinskog stila), uživaćete i u sjajnim koktelima, bogatoj selekciji vina, ljubaznom osoblju i neverovatnoj atmosferi. Rezervacije besplatne ali obavezne!"
+   },
+   {
+      "id":12,
+      "category":"clubs",
+      "name":"Klub Martinez",
+      "mainImage":"photos/logos/klub-martinez.jpg",
+      "slug":"klub-martinez",
+      "desc": "Nešto novo u popularnoj Savamali, nešto što će vas potpuno razdrmati, enterijer, devojke, muzika, energija, osetite pravi duh Beograda u popularnom Martinez Baru. Rezervišite Vaše mesto na vreme i uživajte u domaćim i stranim Dj izvođačima. Rezevracije su besplatne i obavezne!"
+   },
+   {
+      "id":13,
+      "category":"clubs",
+      "name":"Club Ben Akiba",
+      "mainImage":"photos/logos/club-ben-akiba.jpg",
+      "slug":"club-ben-akiba",
+      "desc": ""
+   },
+   {
+      "id":18,
+      "category":"clubs",
+      "name":"Club Mladost",
+      "mainImage":"photos/logos/club-mladost.jpg",
+      "slug":"club-mladost",
+      "desc": ""
+   },
+   {
+      "id":21,
+      "category":"clubs",
+      "name":"Klub Hram",
+      "mainImage":"photos/logos/klub-hram.jpg",
+      "slug":"klub-hram",
+      "desc": ""
+   },
+   {
+      "id":22,
+      "category":"clubs",
+      "name":"Club Freestyler",
+      "mainImage":"photos/logos/club-freestyler.jpg",
+      "slug":"club-freestyler",
+      "desc": ""
+   },
+   {
+      "id":24,
+      "category":"clubs",
+      "name":"The Bank Club",
+      "mainImage":"photos/logos/the-bank-club.jpg",
+      "slug":"the-bank-club",
+      "desc": ""
+   },
+   {
+      "id":28,
+      "category":"clubs",
+      "name":"Industrija Bar",
+      "mainImage":"photos/logos/industrija-bar.jpg",
+      "slug":"industrija-bar",
+      "desc": ""
+   },
+   {
+      "id":30,
+      "category":"clubs",
+      "name":"Club Gotik",
+      "mainImage":"photos/logos/club-gotik.jpg",
+      "slug":"club-gotik",
+      "desc": ""
+   },
+   {
+      "id":40,
+      "category":"clubs",
+      "name":"Club Bitef Art Cafe",
+      "mainImage":"photos/logos/club-bitef-art-cafe.jpg",
+      "slug":"club-bitef-art-cafe",
+      "desc": ""
+   },
+   {
+      "id":41,
+      "category":"clubs",
+      "name":"Klub Soul Society",
+      "mainImage":"photos/logos/klub-soul-society.jpg",
+      "slug":"klub-soul-society",
+      "desc": ""
+   },
+   {
+      "id":49,
+      "category":"clubs",
+      "name":"Club Rush",
+      "mainImage":"photos/logos/club-rush.jpg",
+      "slug":"club-rush",
+      "desc": ""
+   },
+   {
+      "id":50,
+      "category":"clubs",
+      "name":"Dot Club",
+      "mainImage":"photos/logos/dot-club.jpg",
+      "slug":"dot-club",
+      "desc": ""
+   },
+   {
+      "id":54,
+      "category":"clubs",
+      "name":"Splav Hua Hua",
+      "mainImage":"photos/logos/splav-hua-hua.jpg",
+      "slug":"splav-hua-hua",
+      "desc": ""
+   },
+   {
+      "id":10,
+      "category":"taverns",
+      "name":"Tavern Stara Pesma",
+      "mainImage":"photos/logos/tavern-stara-pesma.jpg",
+      "slug":"tavern-stara-pesma",
+      "desc": "Kafana Stara Pesma na beogradskom sajmu garantuje dobar provod četvrtkom kada vas zabavljaju Meda i Ivana Bojanović. Najbolji folk hitovi uživo, pozitivna atmosfera, sjajan kafanski enterijer i usluga garantuju dobar provod do ranih časova. Ulaz i rezervacije besplatne ali obavezne!"
+   },
+   {
+      "id":11,
+      "category":"taverns",
+      "name":"Tavern Ona Moja",
+      "mainImage":"photos/logos/tavern-ona-moja.jpg",
+      "slug":"tavern-ona-moja",
+      "desc": ""
+   },
+   {
+      "id":12,
+      "category":"taverns",
+      "name":"Tavern Konoba Akustik",
+      "mainImage":"photos/logos/tavern-konoba-akustik.jpg",
+      "slug":"tavern-konoba-akustik",
+      "desc": "Autentični etno ambijent, domaća kuhinja, roštilj na ćumur, popularne cene, centar grada. I sve to uz akustične tamburaše svakog četvrtka da ugođaj u večeri bude potpun. Rezervacije su obavezne."
+   },
+   {
+      "id":13,
+      "category":"taverns",
+      "name":"Tavern Staro Drvce",
+      "mainImage":"photos/logos/tavern-staro-drvce.jpg",
+      "slug":"tavern-staro-drvce",
+      "desc": ""
+   },
+   {
+      "id":14,
+      "category":"taverns",
+      "name":"Tavern Hodač",
+      "mainImage":"photos/logos/tavern-hodac.jpg",
+      "slug":"tavern-hodac",
+      "desc": ""
+   },
+   {
+      "id":15,
+      "category":"taverns",
+      "name":"Tavern Korčagin",
+      "mainImage":"photos/logos/tavern-korcagin.jpg",
+      "slug":"tavern-korcagin",
+      "desc": ""
+   },
+   {
+      "id":16,
+      "category":"taverns",
+      "name":"Tavern Limun Žut",
+      "mainImage":"photos/logos/tavern-limun-zut.jpg",
+      "slug":"tavern-limun-zut",
+      "desc": ""
+   },
+   {
+      "id":17,
+      "category":"taverns",
+      "name":"Tavern Mala Maca",
+      "mainImage":"photos/logos/tavern-mala-maca.jpg",
+      "slug":"tavern-mala-maca",
+      "desc": ""
+   },
+   {
+      "id":18,
+      "category":"taverns",
+      "name":"Tavern Jazbina",
+      "mainImage":"photos/logos/tavern-jazbina.jpg",
+      "slug":"tavern-jazbina",
+      "desc": ""
+   },
+   {
+      "id":111,
+      "category":"taverns",
+      "name":"Gradska Kafana",
+      "mainImage":"photos/logos/gradska-kafana.jpg",
+      "slug":"gradska-kafana",
+      "desc": "Novi Beograd i ove zimske sezone nudi fenomenalan kafanski provod, provod u Gradskoj kafani. Rezervišite vaše mesto na vreme i uverite se zašto se o ovoj kafani toliko priča! Rezervacije besplatne ali obavezne!"
+   },
+   {
+      "id":112,
+      "category":"taverns",
+      "name":"Kafana Pukni Zoro",
+      "mainImage":"photos/logos/kafana-pukni-zoro.jpg",
+      "slug":"kafana-pukni-zoro",
+      "desc": "U jednom od najlepših delova Zemuna očekuje vas kafana Pukni Zoro, mesto za sve ljubitelje kafane, dobrog provoda i boemskog života. Ovog četvrtka za vaše raspoloženje zadužen je Srećko Krečar, zato navratite i vi jer najgore što može da vam se desi je da se super provedete!"
+   },
+   {
+      "id":113,
+      "category":"taverns",
+      "name":"Kafana Druga Kuća",
+      "mainImage":"photos/logos/kafana-druga-kuća.jpg",
+      "slug":"kafana-druga-kuća",
+      "desc": "Nova sezona kafane Druga Kuća ali i dalje odlične svirke i uvek veseli gosti! Muzika je ozvučena, tako da je živo u svakom delu kafane. Njihova parola je \"Nije pijanstvo ako te posle nije 3 dana sramota!\" pa se i od vas očekuje da se ponašate u skladu sa parolom :) zato rezervišite mesto na vreme uz akciju flaša na flašu!"
+   },
+   {
+      "id":123,
+      "category":"taverns",
+      "name":"Kafana Cosa Nostra",
+      "mainImage":"photos/logos/kafana-cosa-nostra.jpg",
+      "slug":"kafana-cosa-nostra",
+      "desc": ""
+   },
+   {
+      "id":125,
+      "category":"taverns",
+      "name":"Kafana Bajka",
+      "mainImage":"photos/logos/kafana-bajka.jpg",
+      "slug":"kafana-bajka",
+      "desc": ""
+   },
+   {
+      "id":127,
+      "category":"taverns",
+      "name":"Tavern Sokače",
+      "mainImage":"photos/logos/tavern-sokace.jpg",
+      "slug":"tavern-sokace",
+      "desc": ""
+   },
+   {
+      "id":134,
+      "category":"taverns",
+      "name":"Kafana Švaler",
+      "mainImage":"photos/logos/kafana-svaler.jpg",
+      "slug":"kafana-svaler",
+      "desc": ""
+   },
+   {
+      "id":139,
+      "category":"taverns",
+      "name":"Kafana Teatro",
+      "mainImage":"photos/logos/kafana-teatro.jpg",
+      "slug":"kafana-teatro",
+      "desc": ""
+   },
+   {
+      "id":140,
+      "category":"taverns",
+      "name":"Kafana Moj Grad",
+      "mainImage":"photos/logos/kafana-moj-grad.jpg",
+      "slug":"kafana-moj-grad",
+      "desc": ""
+   },
+   {
+      "id":142,
+      "category":"taverns",
+      "name":"Kafana Gaučosi",
+      "mainImage":"photos/logos/kafana-gaucosi.jpg",
+      "slug":"kafana-gaucosi",
+      "desc": ""
+   },
+   {
+      "id":30,
+      "category":"bars",
+      "name":"Bar Rob Roy 1884",
+      "mainImage":"photos/logos/bar-rob-roy-1884.jpg",
+      "slug":"bar-rob-roy-1884",
+      "desc": "Pod sloganom \"A bit of everything\" predstavljamo vam, zvanično prvi Jack Daniel's bar u Srbiji i regionu – RobRoy 1884 bar, beer & grill. Tokom radne nedelje muziku za vas će birati neki od najpopularnijih lokalnih funk, soul i pop DJ – eva dok su petak i subota rezervisani za domaće pop - rok, funk i soul grupe. Rezervisite Vase mesto na vreme."
+   },
+   {
+      "id":31,
+      "category":"bars",
+      "name":"Pivara",
+      "mainImage":"photos/logos/pivara.jpg",
+      "slug":"pivara",
+      "desc": "PIVO NIKAD NIJE JEDNO!!! Na mestu gde se rodila čuvena jugoslovenska beogradska industrija piva poznatija pod akronimom „BIP\" smeštena je \"Pivara\", mesto gde ćete u srcu Beograda moći da provodite vreme od podneva do samog ulaska u duboku noć uz čak 15 vrsta piva i muzički program ovog četvrtka od 20h. Rezervacije besplatne ali obavezne!"
+   },
+   {
+      "id":32,
+      "category":"bars",
+      "name":"Bar Shootiranje",
+      "mainImage":"photos/logos/bar-shootiranje.jpg",
+      "slug":"bar-shootiranje",
+      "desc": ""
+   },
+   {
+      "id":33,
+      "category":"bars",
+      "name":"Informbiro Bar",
+      "mainImage":"photos/logos/informbiro-bar.jpg",
+      "slug":"informbiro-bar",
+      "desc": ""
+   },
+   {
+      "id":34,
+      "category":"bars",
+      "name":"Square Five",
+      "mainImage":"photos/logos/square-five.jpg",
+      "slug":"square-five",
+      "desc": ""
+   },
+   {
+      "id":36,
+      "category":"bars",
+      "name":"Koks Energy Bar",
+      "mainImage":"photos/logos/koks-energy-bar.jpg",
+      "slug":"koks-energy-bar",
+      "desc": ""
+   },
+   {
+      "id":39,
+      "category":"bars",
+      "name":"Witch Bar",
+      "mainImage":"photos/logos/witch-bar.jpg",
+      "slug":"witch-bar",
+      "desc": ""
+   },
+   {
+      "id":311,
+      "category":"bars",
+      "name":"Tranzit Bar",
+      "mainImage":"photos/logos/tranzit-bar.jpg",
+      "slug":"tranzit-bar",
+      "desc": ""
+   },
+   {
+      "id":317,
+      "category":"bars",
+      "name":"Toxic Bar",
+      "mainImage":"photos/logos/toxic-bar.jpg",
+      "slug":"toxic-bar",
+      "desc": ""
+   },
+   {
+      "id":319,
+      "category":"bars",
+      "name":"Pub 23 Bar",
+      "mainImage":"photos/logos/pub-23-bar.jpg",
+      "slug":"pub-23-bar",
+      "desc": ""
+   },
+   {
+      "id":320,
+      "category":"bars",
+      "name":"Bar Hugo",
+      "mainImage":"photos/logos/bar-hugo.jpg",
+      "slug":"bar-hugo",
+      "desc": ""
+   },
+   {
+      "id":321,
+      "category":"bars",
+      "name":"No Stress Bar",
+      "mainImage":"photos/logos/no-stress-bar.jpg",
+      "slug":"no-stress-bar",
+      "desc": ""
+   },
+   {
+      "id":40,
+      "category":"restaurant",
+      "name":"Restoran Stanica 1884",
+      "mainImage":"photos/logos/restoran-stanica-1884.jpg",
+      "slug":"restoran-stanica-1884",
+      "desc": "U sklopu zgrade glavne Železničke stanice Beograd očekuje vas restoran Stanica 1884. Moderan dizajn sa primesom tradicionalnih elemenata, sjajna gurmanska kuhinja, vinska karta koja broji preko 110 različitih vrsta vina i uživo svirka od 20h do 00h su više nego dovoljni razlozi da rezervišite svoje mesto i uverite se sami u kvalitet restorana Stanica 1884."
+   },
+   {
+      "id":41,
+      "category":"restaurant",
+      "name":"Restaurant Tri Šešira",
+      "mainImage":"photos/logos/restaurant-tri-sesira.jpg",
+      "slug":"restaurant-tri-sesira",
+      "desc": "Restoran Kafana Tri šešira je jedan od najstarijih restorana u Skadarliji, boemskoj četvrti Beograda. Svake večeri vas tamburaši zabavljaju uz starogradsku muziku, pa je uživanje u večeri potpuno. Rezervacije su obavezne.\n\n"
+   },
+   {
+      "id":42,
+      "category":"restaurant",
+      "name":"Restoran Zlatni Bokal",
+      "mainImage":"photos/logos/restoran-zlatni-bokal.jpg",
+      "slug":"restoran-zlatni-bokal",
+      "desc": ""
+   },
+   {
+      "id":43,
+      "category":"restaurant",
+      "name":"Restoran Dva Jelena",
+      "mainImage":"photos/logos/restoran-dva-jelena.jpg",
+      "slug":"restoran-dva-jelena",
+      "desc": "Kafana Dva jelena je jedna od najstarijih kafana u Skadarliji, boemskoj četvrti Beograda. Svake večeri vas tamburaši zabavljaju uz starogradsku muziku, pa je uživanje u večeri potpuno. Rezervacije su obavezne.\n\n"
+   },
+   {
+      "id":44,
+      "category":"restaurant",
+      "name":"Restoran Solunac",
+      "mainImage":"photos/logos/restoran-solunac.jpg",
+      "slug":"restoran-solunac",
+      "desc": ""
+   },
+   {
+      "id":45,
+      "category":"restaurant",
+      "name":"Restoran Tesla",
+      "mainImage":"photos/logos/restoran-tesla.jpg",
+      "slug":"restoran-tesla",
+      "desc": ""
+   },
+   {
+      "id":46,
+      "category":"restaurant",
+      "name":"Restoran Šapat",
+      "mainImage":"photos/logos/restoran-sapat.jpg",
+      "slug":"restoran-sapat",
+      "desc": ""
+   }
+]

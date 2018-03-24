@@ -200,6 +200,9 @@ footer.main-footer {
     footer.main-footer .social ul {
       margin: 15px 0;
       flex-direction: row; } }
+  footer.main-footer .links a:not(:last-child) {
+    border-right: 2px solid #fff;
+    padding-right: 15px; }
   footer.main-footer .links a:not(:last-child),
   footer.main-footer .social ul li:not(:last-child) {
     margin-right: 15px; }

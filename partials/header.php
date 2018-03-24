@@ -16,12 +16,12 @@
 			<ul class="links flex-list-row">
 				<li>
 					<a class="full-width-link" href="/now-party.php">Now party</a>
+				</li>				
+				<li>
+					<a class="full-width-link" href="/news.php">News & Events</a>
 				</li>
 				<li>
-					<a class="full-width-link" href="#">Services</a>
-				</li>
-				<li>
-					<a class="full-width-link" href="#">News & Events</a>
+					<a class="full-width-link" href="/contact.php">Contact</a>
 				</li>
 			</ul>
 			<div class="auth">

@@ -1,3 +1,52 @@
+var modals = (function () {
+
+	var modalsData = [
+		{
+			"trigger": ".auth .login",
+			"modal": "#login-modal"
+		},
+		{
+			"trigger": ".auth .register",
+			"modal": "#register-modal"
+		},
+		{
+			"trigger": "#book",
+			"modal": "#book-modal"
+		}
+	];
+
+	function _bindEvents () {
+		modalsData.forEach(function (modal) {
+			$(modal.trigger).on('click', function(event) {
+				event.preventDefault();
+				var $modal = $(modal.modal);
+				_showModal($modal);
+			});
+		});
+	}
+
+	function _showModal ($modal) {
+		$modal.show();
+		$modal.find('.close').on('click', _closeModal);
+		$modal.on('click', _closeModal);
+		$modal.find('.modal-content').on('click', function (event) {
+			event.stopPropagation();
+		});
+	}
+
+	function _closeModal (event) {
+		event.preventDefault();
+		event.stopPropagation();
+		$('.modal').fadeOut();
+	}
+
+	return {
+		init: function () {
+			_bindEvents();
+		}
+	}
+})();
+
 var palceFilter = (function () {
 
 	// state
@@ -65,7 +114,7 @@ var googleMaps = (function () {
 		var uluru = $map.data();
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 16,
-          center: uluru
+          center: uluru          
         });
         var marker = new google.maps.Marker({
           position: uluru,
@@ -80,10 +129,10 @@ var googleMaps = (function () {
 			}
 		}
 	}
-})()
-
+})();
 
 $(function () {
 	$('a[href="' + window.location.pathname + '"]').parent().addClass('active');
-	palceFilter.init();
+	modals.init();
+	palceFilter.init();	
 });

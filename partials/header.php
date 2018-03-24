@@ -26,9 +26,57 @@
 			</ul>
 			<div class="auth">
 				<ul class="flex-list">
-					<li><a href="#">Login</a></li>
-					<li><a href="#">Register</a></li>
+					<li><a class="login" href="#">Login</a></li>
+					<li><a class="register" href="#">Register</a></li>
 				</ul>
 			</div>
 		</nav>
 	</header>
+
+	<div id="login-modal" class="modal">
+		<div class="modal-content">
+			<div class="modal-header">
+				<span class="close"><a href="#"><i class="fa fa-close"></i></a></span>
+				<h2 class="uc bold">Login</h2>
+			</div>
+			<div class="modal-body">
+				<div class="form-control">
+					<label for="login-email">Email</label>
+					<input type="email" name="email" id="login-email" required placeholder="Please enter your email...">
+				</div>
+				<div class="form-control">
+					<label for="login-password">Password</label>
+					<input type="password" name="password" id="login-password" required placeholder="Please enter your password...">
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button class="btn-primary submit uc">Login</button>
+			</div>
+		</div>
+	</div>
+
+	<div id="register-modal" class="modal">
+		<div class="modal-content">
+			<div class="modal-header">
+				<span class="close"><a href="#"><i class="fa fa-close"></i></a></span>
+				<h2 class="uc bold">Register</h2>
+			</div>
+			<div class="modal-body">
+				<div class="form-control">
+					<label for="register-email">Email</label>
+					<input type="email" name="email" id="register-email" required placeholder="Please enter your email...">
+				</div>
+				<div class="form-control">
+					<label for="register-password">Password</label>
+					<input type="password" name="password" id="register-password" required placeholder="Please enter your password...">
+				</div>
+				<div class="form-control">
+					<label for="register-confirm-password">Confirm Password</label>
+					<input type="password" name="confirm_password" id="register-confirm-password" required placeholder="Please confirm your password...">
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button class="btn-primary submit uc">Register</button>
+			</div>
+		</div>
+	</div>

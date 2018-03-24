@@ -30,6 +30,7 @@ a.active
 @import partials/nav
 @import partials/footer
 @import partials/slider
+@import partials/modal
 @import pages/nowParty
 @import pages/places
 
@@ -40,5 +41,5 @@ a.active
 
 main#home
 	@media only screen and (min-width: $small-screen)
-		height: calc(100vh - #{$header-height + $footer-height})
+		height: $main-min-height
 

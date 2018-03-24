@@ -26,7 +26,7 @@
 			<div class="info">
 				<h1><?=$place['name']?></h1>
 				<p><?=$place['desc']?></p>
-				<button id="book" class="btn-primary uc">Book</button>
+				<button id="book" class="btn-primary bold uc">Book now</button>
 			</div>
 		</div>
 		<div class="events flex-sp-around">
@@ -51,8 +51,26 @@
 		</div>		
 		<div class="flex-center">
 			<div id="map" data-lat="<?=loc($place, 'lat')?>" data-lng="<?=loc($place, 'lng')?>"></div>
-		</div>		
+		</div>
+		<div id="book-modal" class="modal">
+			<div class="modal-content">
+				<div class="modal-header">
+					<span class="close"><a href="#"><i class="fa fa-close"></i></a></span>
+					<h2>Book <span class="uc bold"><?=$place['name']?></span></h2>
+				</div>
+				<div class="modal-body">
+					<p>Some text in the Modal Body</p>
+					<p>Some other text...</p>
+				</div>
+				<div class="modal-footer">
+					<h3>Modal Footer</h3>
+				</div>
+			</div>
+		</div>
 	</main>
-<?php include './partials/footer.php'; ?>	
+<?php include './partials/footer.php'; ?>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDHPnkz7R1qmZA0KnYphb8k0HEBRxMbN6U&callback=googleMaps.init">
+    </script>
 </body>
 </html>

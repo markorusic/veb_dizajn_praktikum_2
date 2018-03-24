@@ -40,17 +40,19 @@
 				<h2 class="uc bold">Login</h2>
 			</div>
 			<div class="modal-body">
-				<div class="form-control">
-					<label for="login-email">Email</label>
-					<input type="email" name="email" id="login-email" required placeholder="Please enter your email...">
-				</div>
-				<div class="form-control">
-					<label for="login-password">Password</label>
-					<input type="password" name="password" id="login-password" required placeholder="Please enter your password...">
-				</div>
+				<form class="login-form">
+					<div class="form-control">
+						<label for="login-email">Email</label>
+						<input type="email" name="email" id="login-email" required placeholder="Please enter your email...">
+					</div>
+					<div class="form-control">
+						<label for="login-password">Password</label>
+						<input type="password" name="password" id="login-password" required placeholder="Please enter your password...">
+					</div>
+				</form>
 			</div>
 			<div class="modal-footer">
-				<button class="btn-primary submit uc">Login</button>
+				<button form="login-form" type="submit" class="btn-primary submit uc">Login</button>
 			</div>
 		</div>
 	</div>
@@ -62,21 +64,23 @@
 				<h2 class="uc bold">Register</h2>
 			</div>
 			<div class="modal-body">
-				<div class="form-control">
-					<label for="register-email">Email</label>
-					<input type="email" name="email" id="register-email" required placeholder="Please enter your email...">
-				</div>
-				<div class="form-control">
-					<label for="register-password">Password</label>
-					<input type="password" name="password" id="register-password" required placeholder="Please enter your password...">
-				</div>
-				<div class="form-control">
-					<label for="register-confirm-password">Confirm Password</label>
-					<input type="password" name="confirm_password" id="register-confirm-password" required placeholder="Please confirm your password...">
-				</div>
+				<form class="register-form">
+					<div class="form-control">
+						<label for="register-email">Email</label>
+						<input type="email" name="email" id="register-email" required placeholder="Please enter your email...">
+					</div>
+					<div class="form-control">
+						<label for="register-password">Password</label>
+						<input type="password" name="password" id="register-password" required placeholder="Please enter your password...">
+					</div>
+					<div class="form-control">
+						<label for="register-confirm-password">Confirm Password</label>
+						<input type="password" name="confirm_password" id="register-confirm-password" required placeholder="Please confirm your password...">
+					</div>
+				</form>
 			</div>
 			<div class="modal-footer">
-				<button class="btn-primary submit uc">Register</button>
+				<button form="register-form" type="submit" class="btn-primary submit uc">Register</button>
 			</div>
 		</div>
 	</div>

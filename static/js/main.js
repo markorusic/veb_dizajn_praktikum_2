@@ -1,6 +1,6 @@
 var modals = (function () {
 
-	var modalsData = [
+	var config = [
 		{
 			"trigger": ".auth .login",
 			"modal": "#login-modal"
@@ -16,7 +16,7 @@ var modals = (function () {
 	];
 
 	function _bindEvents () {
-		modalsData.forEach(function (modal) {
+		config.forEach(function (modal) {
 			$(modal.trigger).on('click', function(event) {
 				event.preventDefault();
 				var $modal = $(modal.modal);

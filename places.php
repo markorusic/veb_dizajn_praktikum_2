@@ -56,14 +56,41 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<span class="close"><a href="#"><i class="fa fa-close"></i></a></span>
-					<h2>Book <span class="uc bold"><?=$place['name']?></span></h2>
+					<h2 class="uc bold">Book <span class="text-primary"><?=$place['name']?></span></h2>
 				</div>
 				<div class="modal-body">
-					<p>Some text in the Modal Body</p>
-					<p>Some other text...</p>
-				</div>
+					<form id="book-form">
+						<div class="form-control">
+							<label for="book-name">Name</label>
+							<input type="text" name="email" id="book-name" required placeholder="Please enter your name...">
+						</div>
+						<div class="form-control flex-sp-between">
+							<label for="book-people">Amount of people</label>
+							<select name="people" id="book-people">
+								<option value="1">1</option>
+								<option value="2">2</option>
+								<option value="3-5">3-5</option>
+								<option value="6-10">6-10</option>
+							</select>
+						</div>
+						<div class="form-control">
+							<label for="book-phone">Contact phone</label>
+							<input type="text" name="phone" id="book-phone" required placeholder="Please enter your contact phone...">
+						</div>
+						<div class="form-control flex-sp-between">
+							<label for="book-table">Bar table or separe</label>
+							<select name="table" id="book-table">
+								<option value="bar_table">Bar table</option>
+								<option value="separe">Separe</option>
+							</select>
+						</div>
+						<div class="form-control">
+							<textarea name="note" id="book-note" placeholder="Note..."></textarea>
+						</div>
+					</div>
+				</form>	
 				<div class="modal-footer">
-					<h3>Modal Footer</h3>
+					<button form="book-form" type="submit" class="btn-primary submit uc">Book</button>
 				</div>
 			</div>
 		</div>

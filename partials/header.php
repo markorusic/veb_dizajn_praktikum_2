@@ -11,12 +11,12 @@
 	<header>
 		<nav class="main-nav flex-sp-around">
 			<div class="logo">
-				<a href="/">Belgrade party</a>
+				<a class="full-width-link" href="/">Belgrade party</a>
 			</div>			
 			<ul class="links flex-list-row">
-				<li><a href="/now-party.php">Now party</a></li>
-				<li><a href="#">Services</a></li>
-				<li><a href="#">News & Events</a></li>
+				<li><a class="full-width-link" href="/now-party.php">Now party</a></li>
+				<li><a class="full-width-link" href="#">Services</a></li>
+				<li><a class="full-width-link" href="#">News & Events</a></li>
 			</ul>
 			<div class="auth">
 				<ul class="flex-list">

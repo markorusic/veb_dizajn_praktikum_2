@@ -22,10 +22,10 @@ a {
 a.active {
   color: #7df235 !important; }
 
-.flex-center, .flex-center-col, .slider .info .date, header nav.main-nav .logo, header nav.main-nav .links li, header nav.main-nav .auth, header nav.main-nav .auth ul, .slider .slider-items, .flex-sp-between, .flex-sp-around, ul.flex-list-row, ul.flex-list, .flex-center-vertical, header nav.main-nav > *, .flex-center-wrap, main#now-party .places {
+.flex-center, .flex-center-col, .slider .info .date, header nav.main-nav .full-width-link, header nav.main-nav .logo, header nav.main-nav .links li, header nav.main-nav .auth, header nav.main-nav .auth ul, .slider .slider-items, .flex-sp-between, .flex-sp-around, ul.flex-list-row, ul.flex-list, .flex-center-vertical, header nav.main-nav > *, .flex-center-wrap, main#now-party .places {
   display: flex; }
 
-.flex-center, .flex-center-col, .slider .info .date, header nav.main-nav .logo, header nav.main-nav .links li, header nav.main-nav .auth, header nav.main-nav .auth ul, .slider .slider-items {
+.flex-center, .flex-center-col, .slider .info .date, header nav.main-nav .full-width-link, header nav.main-nav .logo, header nav.main-nav .links li, header nav.main-nav .auth, header nav.main-nav .auth ul, .slider .slider-items {
   justify-content: center;
   align-items: center; }
 
@@ -99,6 +99,9 @@ header nav.main-nav {
   @media only screen and (max-width: 576px) {
     header nav.main-nav > * {
       margin-bottom: 15px; } }
+  header nav.main-nav .full-width-link {
+    width: 100%;
+    height: 100%; }
   header nav.main-nav .logo {
     background-color: #7df235;
     font-weight: bold;

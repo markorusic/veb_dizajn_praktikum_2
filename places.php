@@ -87,8 +87,8 @@
 						<div class="form-control">
 							<textarea name="note" id="book-note" placeholder="Note..."></textarea>
 						</div>
-					</div>
-				</form>	
+					</form>
+				</div>				
 				<div class="modal-footer">
 					<button form="book-form" type="submit" class="btn-primary submit uc">Book</button>
 				</div>

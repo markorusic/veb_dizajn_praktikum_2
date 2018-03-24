@@ -108,6 +108,10 @@ img.fluid {
   left: 0;
   bottom: 0; }
 
+.padding-10 {
+  box-sizing: border-box;
+  padding: 10px; }
+
 .flex-half, main#places .place .featured-img, main#places .place .info {
   flex: 0 0 45%;
   max-width: 0 0 45%; }
@@ -418,6 +422,11 @@ main#about-me .useful-links {
 main#about-me a.repo {
   overflow: hidden;
   text-transform: lowercase; }
+
+main#contact input, main#contact textarea {
+  border-color: #555; }
+main#contact textarea {
+  height: 300px; }
 
 #map {
   height: 400px;

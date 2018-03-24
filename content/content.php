@@ -31,7 +31,7 @@ function getBySlug ($places, $slug) {
 }
 
 function loc($place, $arg = 'lat') {	
-	$cord = $place['location']['arg'];
+	$cord = $place[$arg];	
 	if (is_null($cord) || strlen($cord) == 0) {
 		if ($arg == 'lat') {
 			$cord = '44.787197';

@@ -48,7 +48,7 @@
 		</div>
 		<div class="flex-center">
 			<hr class="separate">
-		</div>		
+		</div>
 		<div class="flex-center">
 			<div id="map" data-lat="<?=loc($place, 'lat')?>" data-lng="<?=loc($place, 'lng')?>"></div>
 		</div>

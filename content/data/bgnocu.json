@@ -7,10 +7,8 @@
       "slug":"club-hype",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -37,10 +35,8 @@
       "slug":"club-stefan-braun",
       "desc": "Preporučujemo da vikend započnete malo ranije, u klubu Mr. Stefan Braun! Visoko na devetom spratu zgrade u Nemanjinoj 4, živi jedna posebna vrsta zabave kojom četvrtkom upravljaju Dj Moooka i Dj Gru. Sedma sezona SkyHigh-a donosi nova uzbuđenja svim ljubiteljima R’n’B i Hip-Hop muzike zato rezervišite mesto na vreme!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -67,10 +63,8 @@
       "slug":"club-kasina-by-community",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -97,10 +91,8 @@
       "slug":"klub-wurst-platz",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -127,10 +119,8 @@
       "slug":"klub-corba-kafe",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -157,10 +147,8 @@
       "slug":"klub-tramvaj-pub",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -187,10 +175,8 @@
       "slug":"klub-gajba",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -217,10 +203,8 @@
       "slug":"club-ludost",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -247,10 +231,8 @@
       "slug":"brod-sava",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -277,10 +259,8 @@
       "slug":"square-club",
       "desc": "Ukoliko želite da se opustite uz popularne zvuke 90ih, onda je jedan od novijih beogradskih klubova, klub Square, mesto gde ćete maksimalno uživati. Ne dopustite da vam drugi prepričavaju, rezervišite svoje mesto i uživajte u čarima noćnog života Beograda. Rezervacije besplatne ali obavezne!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -307,10 +287,8 @@
       "slug":"club-brankow",
       "desc": "Klub Brankow najbolji je internacionalni i lokalni deep house i disko DJ klub uBeogradu. Pored nesvakidašnje unutrašnjost kluba, (mešavina njujorškog, londonskog i berlinskog stila), uživaćete i u sjajnim koktelima, bogatoj selekciji vina, ljubaznom osoblju i neverovatnoj atmosferi. Rezervacije besplatne ali obavezne!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -337,10 +315,8 @@
       "slug":"klub-martinez",
       "desc": "Nešto novo u popularnoj Savamali, nešto što će vas potpuno razdrmati, enterijer, devojke, muzika, energija, osetite pravi duh Beograda u popularnom Martinez Baru. Rezervišite Vaše mesto na vreme i uživajte u domaćim i stranim Dj izvođačima. Rezevracije su besplatne i obavezne!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -367,10 +343,8 @@
       "slug":"club-ben-akiba",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -397,10 +371,8 @@
       "slug":"club-mladost",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -427,10 +399,8 @@
       "slug":"klub-hram",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -457,10 +427,8 @@
       "slug":"club-freestyler",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -487,10 +455,8 @@
       "slug":"the-bank-club",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -517,10 +483,8 @@
       "slug":"industrija-bar",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -547,10 +511,8 @@
       "slug":"club-gotik",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -577,10 +539,8 @@
       "slug":"club-bitef-art-cafe",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -607,10 +567,8 @@
       "slug":"klub-soul-society",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -637,10 +595,8 @@
       "slug":"club-rush",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -667,10 +623,8 @@
       "slug":"dot-club",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -697,10 +651,8 @@
       "slug":"splav-hua-hua",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -727,10 +679,8 @@
       "slug":"tavern-stara-pesma",
       "desc": "Kafana Stara Pesma na beogradskom sajmu garantuje dobar provod četvrtkom kada vas zabavljaju Meda i Ivana Bojanović. Najbolji folk hitovi uživo, pozitivna atmosfera, sjajan kafanski enterijer i usluga garantuju dobar provod do ranih časova. Ulaz i rezervacije besplatne ali obavezne!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -757,10 +707,8 @@
       "slug":"tavern-ona-moja",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -787,10 +735,8 @@
       "slug":"tavern-konoba-akustik",
       "desc": "Autentični etno ambijent, domaća kuhinja, roštilj na ćumur, popularne cene, centar grada. I sve to uz akustične tamburaše svakog četvrtka da ugođaj u večeri bude potpun. Rezervacije su obavezne.",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -817,10 +763,8 @@
       "slug":"tavern-staro-drvce",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -847,10 +791,8 @@
       "slug":"tavern-hodac",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -877,10 +819,8 @@
       "slug":"tavern-korcagin",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -907,10 +847,8 @@
       "slug":"tavern-limun-zut",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -937,10 +875,8 @@
       "slug":"tavern-mala-maca",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -967,10 +903,8 @@
       "slug":"tavern-jazbina",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -997,10 +931,8 @@
       "slug":"gradska-kafana",
       "desc": "Novi Beograd i ove zimske sezone nudi fenomenalan kafanski provod, provod u Gradskoj kafani. Rezervišite vaše mesto na vreme i uverite se zašto se o ovoj kafani toliko priča! Rezervacije besplatne ali obavezne!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1027,10 +959,8 @@
       "slug":"kafana-pukni-zoro",
       "desc": "U jednom od najlepših delova Zemuna očekuje vas kafana Pukni Zoro, mesto za sve ljubitelje kafane, dobrog provoda i boemskog života. Ovog četvrtka za vaše raspoloženje zadužen je Srećko Krečar, zato navratite i vi jer najgore što može da vam se desi je da se super provedete!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1057,10 +987,8 @@
       "slug":"kafana-druga-kuća",
       "desc": "Nova sezona kafane Druga Kuća ali i dalje odlične svirke i uvek veseli gosti! Muzika je ozvučena, tako da je živo u svakom delu kafane. Njihova parola je \"Nije pijanstvo ako te posle nije 3 dana sramota!\" pa se i od vas očekuje da se ponašate u skladu sa parolom :) zato rezervišite mesto na vreme uz akciju flaša na flašu!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1087,10 +1015,8 @@
       "slug":"kafana-cosa-nostra",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1117,10 +1043,8 @@
       "slug":"kafana-bajka",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1147,10 +1071,8 @@
       "slug":"tavern-sokace",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1177,10 +1099,8 @@
       "slug":"kafana-svaler",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1207,10 +1127,8 @@
       "slug":"kafana-teatro",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1237,10 +1155,8 @@
       "slug":"kafana-moj-grad",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1267,10 +1183,8 @@
       "slug":"kafana-gaucosi",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1297,10 +1211,8 @@
       "slug":"bar-rob-roy-1884",
       "desc": "Pod sloganom \"A bit of everything\" predstavljamo vam, zvanično prvi Jack Daniel's bar u Srbiji i regionu – RobRoy 1884 bar, beer & grill. Tokom radne nedelje muziku za vas će birati neki od najpopularnijih lokalnih funk, soul i pop DJ – eva dok su petak i subota rezervisani za domaće pop - rok, funk i soul grupe. Rezervisite Vase mesto na vreme.",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1327,10 +1239,8 @@
       "slug":"pivara",
       "desc": "PIVO NIKAD NIJE JEDNO!!! Na mestu gde se rodila čuvena jugoslovenska beogradska industrija piva poznatija pod akronimom „BIP\" smeštena je \"Pivara\", mesto gde ćete u srcu Beograda moći da provodite vreme od podneva do samog ulaska u duboku noć uz čak 15 vrsta piva i muzički program ovog četvrtka od 20h. Rezervacije besplatne ali obavezne!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1357,10 +1267,8 @@
       "slug":"bar-shootiranje",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1387,10 +1295,8 @@
       "slug":"informbiro-bar",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1417,10 +1323,8 @@
       "slug":"square-five",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1447,10 +1351,8 @@
       "slug":"koks-energy-bar",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1477,10 +1379,8 @@
       "slug":"witch-bar",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1507,10 +1407,8 @@
       "slug":"tranzit-bar",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1537,10 +1435,8 @@
       "slug":"toxic-bar",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1567,10 +1463,8 @@
       "slug":"pub-23-bar",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1597,10 +1491,8 @@
       "slug":"bar-hugo",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1627,10 +1519,8 @@
       "slug":"no-stress-bar",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1657,10 +1547,8 @@
       "slug":"restoran-stanica-1884",
       "desc": "U sklopu zgrade glavne Železničke stanice Beograd očekuje vas restoran Stanica 1884. Moderan dizajn sa primesom tradicionalnih elemenata, sjajna gurmanska kuhinja, vinska karta koja broji preko 110 različitih vrsta vina i uživo svirka od 20h do 00h su više nego dovoljni razlozi da rezervišite svoje mesto i uverite se sami u kvalitet restorana Stanica 1884.",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1687,10 +1575,8 @@
       "slug":"restaurant-tri-sesira",
       "desc": "Restoran Kafana Tri šešira je jedan od najstarijih restorana u Skadarliji, boemskoj četvrti Beograda. Svake večeri vas tamburaši zabavljaju uz starogradsku muziku, pa je uživanje u večeri potpuno. Rezervacije su obavezne.\n\n",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1716,10 +1602,8 @@
       "logo":"photos/logos/restoran-zlatni-bokal.jpg",
       "slug":"restoran-zlatni-bokal",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1745,10 +1629,8 @@
       "logo":"photos/logos/restoran-dva-jelena.jpg",
       "slug":"restoran-dva-jelena",
       "desc": "Kafana Dva jelena je jedna od najstarijih kafana u Skadarliji, boemskoj četvrti Beograda. Svake večeri vas tamburaši zabavljaju uz starogradsku muziku, pa je uživanje u večeri potpuno. Rezervacije su obavezne.\n\n",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1774,10 +1656,8 @@
       "logo":"photos/logos/restoran-solunac.jpg",
       "slug":"restoran-solunac",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1804,10 +1684,8 @@
       "slug":"restoran-tesla",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",
@@ -1834,10 +1712,8 @@
       "slug":"restoran-sapat",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, amet nam a, quam delectus reiciendis sit nobis veritatis? Vitae voluptatem porro, optio eius fugit vero corporis. Alias provident, dolorum a!",
       "address": "Address: Karađorđeva 2-5, Belgrade 11000",
-      "location": {
-         "lat": "",
-         "lng": ""
-      },
+      "lat": "",
+      "lng": "",
       "events": [
          {
             "day": "Friday",

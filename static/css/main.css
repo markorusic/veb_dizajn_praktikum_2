@@ -407,6 +407,18 @@ main#places hr.separate {
     margin-bottom: 20px;
     width: 95%; } }
 
+main#about-me .container {
+  padding: 20px 50px; }
+main#about-me .author-avatar-lg {
+  border-radius: 50%; }
+main#about-me .author-info span {
+  font-size: 18px; }
+main#about-me .useful-links {
+  margin: 35px 0; }
+main#about-me a.repo {
+  overflow: hidden;
+  text-transform: lowercase; }
+
 #map {
   height: 400px;
   width: 100%; }

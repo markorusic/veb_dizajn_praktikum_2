@@ -19,7 +19,7 @@
 				>
 					<a href="/places.php?slug=<?=$place['slug']?>">
 						<div class="palce-item"
-							style="background-image: url('<?=$place['mainImage']?>')"
+							style="background-image: url('<?=$place['logo']?>')"
 						>
 							<div class="overlay"></div>
 							<div class="place-content flex-center">

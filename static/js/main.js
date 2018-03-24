@@ -56,6 +56,33 @@ var palceFilter = (function () {
 
 })();
 
+var googleMaps = (function () {
+
+	var _shouldInit = window.location.pathname == '/places.php';
+	var $map = $('#map');
+
+	function _drawMap () {
+		var uluru = $map.data();
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 16,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+	}
+
+	return {
+		init: function () {
+			if (_shouldInit) {
+				_drawMap();
+			}
+		}
+	}
+})()
+
+
 $(function () {
 	$('a[href="' + window.location.pathname + '"]').parent().addClass('active');
 	palceFilter.init();

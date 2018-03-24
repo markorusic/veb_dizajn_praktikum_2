@@ -1,2 +1,30 @@
 main#places
+	// @media only screen and (max-width: $small-screen)
+		// padding: 0 5px
+	hr.separate
+		width: 95%
+		margin: 20px 0
+		opacity: 0
+		@media only screen and (min-width: $small-screen)
+			margin: 40px 0
+
+	.place
+		.featured-img, .info
+			@extend .flex-center-col
+			@extend .align-start
+			@extend .flex-half
+			@media only screen and (max-width: $small-screen)
+				align-items: center
+
+		.info
+			@extend .justify-start
 	
+	.events, .place .info
+		@media only screen and (max-width: $small-screen)
+			align-items: center
+			padding: 0 15px	
+
+	#map		
+		@media only screen and (min-width: $small-screen)
+			margin-bottom: 20px
+			width: 95%

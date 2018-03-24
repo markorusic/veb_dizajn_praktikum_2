@@ -29,6 +29,12 @@
 	justify-content: center
 	flex-wrap: wrap
 
+.justify-start
+	justify-content: flex-start
+
+.align-start
+	align-items: flex-start
+
 .list-reset
 	padding: 0
 	margin: 0
@@ -50,6 +56,12 @@ ul.flex-list
 
 .text-center 
 	text-align: center
+
+.text-left
+	text-align: left
+
+img.fluid
+	max-width: 100%
 
 .btn
 	@extend .uc
@@ -75,3 +87,21 @@ ul.flex-list
 	display: none	
 	background-color: rgba(0, 0, 0, 0.85)
 	+absolute-shrink
+
+
+.flex-half
+	flex: 0 0 45%
+	max-width: 0 0 45%
+
+table
+	font-family: arial, sans-serif
+	border-collapse: collapse
+	width: 100%
+	th
+		font-weight: 400
+		@extend .uc
+			
+	td, th
+		border-bottom: 1px solid $table-border-col
+		text-align: left
+		padding: 8px

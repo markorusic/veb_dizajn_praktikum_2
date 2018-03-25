@@ -18,10 +18,10 @@
 					<a class="full-width-link" href="/now-party.php">Now party</a>
 				</li>				
 				<li>
-					<a class="full-width-link" href="/news.php">News & Events</a>
+					<a class="full-width-link" href="/ask-local.php">Ask local</a>
 				</li>
 				<li>
-					<a class="full-width-link" href="/contact.php">Contact</a>
+					<a class="full-width-link" href="/ask-local.php">Contact</a>
 				</li>
 			</ul>
 			<div class="auth">

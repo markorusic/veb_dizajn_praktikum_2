@@ -12,6 +12,10 @@ var modals = (function () {
 		{
 			"trigger": "#book",
 			"modal": "#book-modal"
+		},
+		{
+			"trigger": "#book-local",
+			"modal": "#book-local-modal"
 		}
 	];
 

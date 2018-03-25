@@ -218,7 +218,7 @@ footer.main-footer {
   height: 100%;
   overflow: hidden;
   position: relative; }
-  .slider .overlay {
+  .slider .home-overlay {
     position: absolute;
     top: 0;
     right: 0;

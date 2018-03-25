@@ -1,6 +1,6 @@
 <?php 
 
-$places = json_decode(file_get_contents('./content/data/bgnocu.json'), true);
+$places = json_decode(file_get_contents('./content/data/places.json'), true);
 
 $categories = getCategories($places);
 

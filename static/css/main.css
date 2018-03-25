@@ -423,10 +423,13 @@ main#about-me a.repo {
   overflow: hidden;
   text-transform: lowercase; }
 
-main#contact input, main#contact textarea {
-  border-color: #555; }
-main#contact textarea {
-  height: 300px; }
+main#contact {
+  max-width: 700px;
+  margin: 0 auto; }
+  main#contact input, main#contact textarea {
+    border-color: #555; }
+  main#contact textarea {
+    height: 300px; }
 
 #map {
   height: 400px;

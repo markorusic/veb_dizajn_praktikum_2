@@ -1,5 +1,9 @@
 <?php 
-	include './content/content.php'; 
+	
+	$page_title = 'Now party';
+	$page_description = 'Now party, pick place or places you would like to visit.';
+
+	include './content/content.php'; 	
 	include './partials/header.php';
 ?>
 	<main id="now-party">

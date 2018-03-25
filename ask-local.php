@@ -1,4 +1,10 @@
-<?php include './partials/header.php'; ?>
+<?php 
+	
+	$page_title = 'Ask local';
+	$page_description = 'Ask local Belgrade people for places to visits.';
+
+	include './partials/header.php';
+?>
 	<main id="places">		
 		<div class="place flex-sp-around">
 			<div class="featured-img">

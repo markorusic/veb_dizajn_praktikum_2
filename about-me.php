@@ -1,4 +1,10 @@
-<?php include './partials/header.php'; ?>
+<?php 
+	
+	$page_title = 'About author';
+	$page_description = 'Page about author of Belgrade party website.';
+
+	include './partials/header.php';
+?>
 	<main id="about-me">
 		<div class="container">
     		<div class="content-wrapper flex-center-col">

@@ -15,6 +15,9 @@
 	    die();
 	}
 
+	$page_title = $place['name'];
+	$page_description = $place['desc'];
+
 	include './partials/header.php';
 ?>
 	<main id="places">		

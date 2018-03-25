@@ -1,4 +1,10 @@
-<?php include './partials/header.php'; ?>
+<?php 
+	
+	$page_title = 'Contact us';
+	$page_description = 'Belgrade party contact page.';
+
+	include './partials/header.php'; 
+?>
 	<main id="contact">
 		<div class="padding-10">
 			<div class="top">

@@ -1,4 +1,10 @@
-<?php include './partials/header.php'; ?>
+<?php 
+	
+	$page_title = 'Home page';
+	$page_description = 'Belgrade party now. Here you can find everything about Belgrade\'s nightlife.';
+
+	include './partials/header.php';
+?>
 	<main id="home">
 		<div class="slider">
 			<div class="home-overlay"></div>

@@ -7,6 +7,7 @@
 	<div class="links flex-center">
 		<a class="uc" href="/about-me.php">About author</a>
 		<a class="uc" href="/sitemap.xml" target="_blank">Sitemap</a>
+		<a class="uc" href="https://github.com/markorusic/veb_dizajn_praktikum_2/tree/master/sass" target="_blank">Sass</a>
 	</div>
 	<div class="social flex-center">
 		<ul class="flex-list-row">

@@ -1,0 +1,346 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://bgpartynow.herokuapp.com/</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/now-party.php</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/ask-local.php</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/contact.php</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-stefan-braun</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/about-me.php</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-hype</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-kasina-by-community</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=klub-wurst-platz</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=klub-corba-kafe</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=klub-tramvaj-pub</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=klub-gajba</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-ludost</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=brod-sava</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=square-club</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-brankow</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=klub-martinez</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-ben-akiba</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-mladost</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=klub-hram</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-freestyler</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=the-bank-club</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=industrija-bar</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-gotik</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-bitef-art-cafe</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=klub-soul-society</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=club-rush</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=dot-club</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=splav-hua-hua</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-stara-pesma</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-ona-moja</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-konoba-akustik</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-staro-drvce</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-hodac</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-korcagin</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-limun-zut</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-mala-maca</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-jazbina</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=gradska-kafana</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=kafana-pukni-zoro</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=kafana-druga-ku%C4%87a</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=kafana-cosa-nostra</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=kafana-bajka</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tavern-sokace</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=kafana-svaler</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=kafana-teatro</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=kafana-moj-grad</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=kafana-gaucosi</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=bar-rob-roy-1884</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=pivara</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=bar-shootiranje</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=informbiro-bar</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=square-five</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=koks-energy-bar</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=witch-bar</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=tranzit-bar</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=toxic-bar</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=pub-23-bar</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=bar-hugo</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=no-stress-bar</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=restoran-stanica-1884</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=restaurant-tri-sesira</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=restoran-zlatni-bokal</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=restoran-dva-jelena</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=restoran-solunac</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=restoran-tesla</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bgpartynow.herokuapp.com/places.php?slug=restoran-sapat</loc>
+  <lastmod>2018-03-25T00:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

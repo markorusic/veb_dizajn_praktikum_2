@@ -6,7 +6,7 @@
 	</div>
 	<div class="links flex-center">
 		<a class="uc" href="/about-me.php">About author</a>
-		<a class="uc" href="/contact.php">Contact</a>
+		<a class="uc" href="/sitemap.xml" target="_blank">Sitemap</a>
 	</div>
 	<div class="social flex-center">
 		<ul class="flex-list-row">

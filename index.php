@@ -13,8 +13,8 @@
 			</div>
 			<div class="info flex-center-col">
 				<div class="date">
-					<span class="uc">Wed</span>
-					<span class="uc">24.10</span>
+					<span class="dayy uc">Wed</span>
+					<span class="datee suc">24.10</span>
 				</div>				
 				<p class="desc text-center">We reccomend you to start your weekend little earlier, in club Mr. Stefan Braun! Reserve your place on time!</p>
 				<a href="/places.php?slug=club-stefan-braun" class="btn-primary">More</a>
